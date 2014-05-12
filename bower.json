@@ -1,0 +1,8 @@
+{
+  "name": "browserify-bower-debug-lib",
+  "version": "0.0.0",
+  "description": "",
+  "main": [
+    "browserify-bower-debug-lib.js"
+  ]
+}
